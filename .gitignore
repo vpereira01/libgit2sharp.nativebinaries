@@ -4,3 +4,7 @@
 *.dylib
 *.so
 *.zip
+
+# Ignore dotnet core temporary artifacts
+nuget.package.dotnetcore/bin/
+nuget.package.dotnetcore/obj/
