@@ -1,0 +1,4 @@
+# Ignore dotnet core temporary artifacts
+bin/
+obj/
+pkgs/
